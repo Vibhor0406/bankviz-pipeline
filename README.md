@@ -2,7 +2,6 @@
 
 **BankViz Pipeline** is an end-to-end machine learning and visualization project focused on predicting customer deposit behavior in banking datasets. This pipeline performs data preprocessing, model training, evaluation, and generates interactive visualizations to provide actionable business insights.
 
----
 
 ## 📌 Features
 
@@ -13,7 +12,6 @@
 - Model explainability with **SHAP** value visualization
 - Seamless UI integration via the `preswald` module
 
----
 
 ## 🛠️ Tech Stack
 
@@ -23,12 +21,10 @@
 - `shap` – for model interpretability
 - `preswald` – for UI/data binding (custom or external module)
 
----
 
 ## 📁 Project Structure
 
 
----
 
 ## 🔄 Workflow Overview
 
@@ -42,7 +38,6 @@
    - ROC Curve via `plotly.graph_objects`
    - Feature importance via `shap.Explainer`
 
----
 
 ## 🚀 Getting Started
 
